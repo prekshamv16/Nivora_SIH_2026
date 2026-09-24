@@ -1,5 +1,10 @@
 # Nivora 🌱 — Memories. People. Connection.
 
+## 🚀 Live Demo
+🔗 **[Try it live](https://ssl-byte-dimensions-oak.trycloudflare.com)**
+
+> ⚠️ Note: This is a temporary Cloudflare Tunnel link and may stop working once the tunnel session ends. For a permanent link, consider deploying to Vercel, Netlify, or Railway.
+
 > **Official Tagline:** *Memories. People. Connection.*  
 > **Positioning:** *Personalized cognitive engagement and memory assistance platform.* (Non-diagnostic).  
 > **Audience:** Older adults, individuals experiencing mild cognitive impairment, and their family/clinical caregivers.  
@@ -67,7 +72,8 @@
 
 ## 🔑 Demo Logins & Access PINs
 
-- **Caregiver Portal:** Tap **"Caregiver"** $ightarrow$ 1-tap instant login as **Dr. Anita Sharma** (no password required).
+- **Caregiver Portal:** Tap **"Caregiver"** $
+ightarrow$ 1-tap instant login as **Dr. Anita Sharma** (no password required).
 - **Patient 6-Digit PINs:**
   - **Dharani Baruah** (Guwahati, Assam): `123456`
   - **Kamala Devi** (Shillong, Meghalaya): `789012`
